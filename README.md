@@ -2,17 +2,17 @@
 
 # Online Book Store
 
-## 📖 About the Project
+## About the Project
 
 Online Book Store is a database-based project designed to manage books, customers, and orders. The project uses SQL and PostgreSQL to store, organize, and retrieve book store information efficiently.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * PostgreSQL
 * SQL
 * pgAdmin 4
 
-## 🗄️ Database Tables
+## Database Tables
 
 ### 1. Books
 
@@ -38,7 +38,8 @@ Stores customer information.
 * Name
 * Email
 * Phone
-* Address
+* City
+* Country
 
 ### 3. Orders
 
@@ -53,7 +54,7 @@ Stores information about customer orders.
 * Quantity
 * Total_Amount
 
-## 🔍 SQL Operations
+## SQL Operations
 
 The project includes SQL queries for:
 
